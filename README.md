@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on new energy science and technology.
+- 🌱 I’m currently learning openEuler and Rt-Thread.
+- - 💬 Ask me about 嵌入式/新能源
+- - 📫 How to reach me: 22230635@czu.cn
 <!--
 **Darrenpig/Darrenpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
