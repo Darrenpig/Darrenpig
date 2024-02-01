@@ -4,8 +4,7 @@
 - 💬 Ask me about 嵌入式/新能源
 - 📫 How to reach me: 22230635@czu.cn
 - ⚡ Fun fact :  计算机基础、机械制图、工程力学、机械设计基础、普通化学、电工与电子技术、自动控制原理与系统、工程热力学、流体力学、传热学、热工测试仪表、风力机空气动力学、太阳能利用技术、新能源发电并网技术、制冷与空调原理、储能原理与技术、分布式能源与热电冷联产、供热工程......
-- 
-  <img width="632" alt="屏幕截图 2024-02-01 161611" src="https://github.com/Darrenpig/Darrenpig/assets/121377489/e23fd6c0-fe87-40b3-b7d6-6c6d85db9a67">
+
 
 <!--
 **Darrenpig/Darrenpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
