@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on new energy science and technology.
+- 🔭 I’m currently working onNew Energy Science and Engineering.
 - 🌱 I’m currently learning openEuler and Rt-Thread.
 - - 💬 Ask me about 嵌入式/新能源
 - - 📫 How to reach me: 22230635@czu.cn
