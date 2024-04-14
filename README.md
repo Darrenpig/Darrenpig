@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [yocto-meta-openeuler](https://github.com/Darrenpig/openEuler_Tutorial) and [Rt-Thread](https://club.rt-thread.org/index.html/) 
 - 💬 Ask me about 嵌入式/新能源(Embedded/New Energy)
 - 📫 How to reach me: <22230635@czu.cn>
-- ⚡ Fun fact :  计算机基础、机械制图、工程力学、机械设计基础、普通化学、电工与电子技术、自动控制原理与系统、工程热力学、流体力学、传热学、热工测试仪表、风力机空气动力学、太阳能利用技术、新能源发电并网技术、制冷与空调原理、储能原理与技术、分布式能源与热电冷联产、供热工程......
+- ⚡ Fun fact : Computer Fundamentals, Mechanical Drawing, Engineering Mechanics, Mechanical Design Fundamentals, General Chemistry, Electrical and Electronic Technology, Automatic Control Principles and Systems, Engineering Thermodynamics, Fluid Mechanics, Heat Transfer, Thermal Test Instruments, Wind Turbine Aerodynamics, Solar Energy Utilization Technology, New Energy Generation Grid-connected Technology, Refrigeration and Air Conditioning Principle, Energy Storage Principle and Technology, Distributed Energy and Combined Heat and Power and Cooling Engineering, Heating Engineering......计算机基础、机械制图、工程力学、机械设计基础、普通化学、电工与电子技术、自动控制原理与系统、工程热力学、流体力学、传热学、热工测试仪表、风力机空气动力学、太阳能利用技术、新能源发电并网技术、制冷与空调原理、储能原理与技术、分布式能源与热电冷联产、供热工程......
 
 
 <!--
