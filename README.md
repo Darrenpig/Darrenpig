@@ -6,8 +6,8 @@
 - 💬 Ask me about 嵌入式/新能源(Embedded/New Energy)
 - 💬 询问嵌入式/新能源（Embedded/New Energy）
 - 📫 How to reach me: 22230635@czu.cn
-- 📫 这是我的邮箱：22230635@czu.cn
-
+- 📫 [![邮箱](https://img.shields.io/badge/我的邮箱-22230635@czu.cn-fedcba
+)](22230635@czu.cn)
 
 [![雪球计划](https://img.shields.io/badge/%E9%9B%AA%E7%90%83%E8%AE%A1%E5%88%92-issues%2FI90DOU-blue
 )](https://gitee.com/openeuler/yocto-meta-openeuler/issues/I90DOU#comment-loadder)
