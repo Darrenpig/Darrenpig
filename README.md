@@ -7,6 +7,14 @@
 - 💬 询问嵌入式/新能源（Embedded/New Energy）
 - 📫 How to reach me: 22230635@czu.cn
 - 📫 这是我的邮箱：22230635@czu.cn
+[![雪球计划](https://img.shields.io/badge/%E9%9B%AA%E7%90%83%E8%AE%A1%E5%88%92-issues%2FI90DOU-blue
+)](https://gitee.com/openeuler/yocto-meta-openeuler/issues/I90DOU#comment-loadder)
+[![NXP-meta_freescale](https://img.shields.io/badge/NXP-meta_freescale-brightgreen
+)](https://github.com/Freescale/meta-freescale)
+[![NXP-meta_freescale](https://img.shields.io/badge/yocto_meta_SIG-openeuler-violet
+)](https://gitee.com/openeuler/yocto-meta-openeuler)
+[![NXP meta-imx](https://img.shields.io/badge/NXP-meta_imx-8A2BE2
+)](https://github.com/nxp-imx/meta-imx)
 
 
 <!--
