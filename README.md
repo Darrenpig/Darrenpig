@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on New Energy Science and Engineering.
-- 🔭 我目前在攻读新能源科学与工程专业，并且从事相关工作。
+- 🔭 我目前在攻读新能源科学与工程专业，并且从事相关基础软件的应用工作。
 - 🌱 I’m currently learning yocto-meta-openeuler and Rt-Thread
 - 🌱 我目前正在学习 yocto-meta-openeuler 和 Rt-Thread（两款国内的操作系统社区）
 - 💬 Ask me about 嵌入式/新能源(Embedded/New Energy)
