@@ -8,9 +8,13 @@
 - 📫 How to reach me: 22230635@czu.cn
 - 📫 [![邮箱](https://img.shields.io/badge/我的邮箱-22230635@czu.cn-fedcba
 )](22230635@czu.cn)
-
+[![NXP-meta_freescale](https://img.shields.io/badge/NEC-maintianer-fedcba
+)](https://gitee.com/darrenpig/new_energy_coder_club)
 [![雪球计划](https://img.shields.io/badge/%E9%9B%AA%E7%90%83%E8%AE%A1%E5%88%92-issues%2FI90DOU-blue
 )](https://gitee.com/openeuler/yocto-meta-openeuler/issues/I90DOU#comment-loadder)
+- ✨ 开源项目仓库 https://gitee.com/darrenpig/new_energy_coder_club
+
+<!--
 [![NXP-meta_freescale](https://img.shields.io/badge/NXP-meta_freescale-brightgreen
 )](https://github.com/Freescale/meta-freescale)
 [![NXP-meta_freescale](https://img.shields.io/badge/yocto_meta_SIG-openeuler-violet
