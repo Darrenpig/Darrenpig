@@ -1,7 +1,6 @@
 # DarrenPig(PeiWei Zhu)
 
 #### Embedded BSP🐖| Robotic🎮 | PLC🛠
-
 #### 嵌入式开发 🦾| 机器人🌃 | 工业控制👾
 
 # Contact Information
@@ -14,9 +13,9 @@ Research Experience / Lab Experience / Graduate Fieldwork
 
 研究经历 / 实验室经历 / 研究生实地工作
 
-【清华大学智能产业研究院 (AIR) 】机器人 RA 短期研究基于触觉反馈的端到端灵巧手控制器嵌入式 32  小组成员 负责嵌入式手柄控制器设计 EDA、32
+【清华大学智能产业研究院 (AIR) 】机器人 RA 短期研究基于触觉反馈的端到端灵巧手控制器嵌入式 32  小组成员 负责嵌入式EDA、32
 
-【德沪钙钛矿研究院 PVD 磁控溅射】西门子 PLC 的 winCC 重写，完成启动动画碲阳 Logo 重构代码逻辑，C ++、Python、Shell 语言，主导技术实现
+【德沪钙钛矿研究院 PVD 磁控溅射】西门子 PLC 的 winCC 重写，完成启动 碲阳Logo 重构代码逻辑，C++、Python、Shell语言，技术实现
 
 【易百纳 EB25 星闪 BLE 透传】开源手柄，设计 (Fusion360 三维设计〕通信协议底软 海鸥派，Bitbake、Yocto语言，社区邀请合作
 
