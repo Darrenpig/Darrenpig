@@ -1,4 +1,4 @@
-# DarrenPig(PeiWei Zhu)
+# DarrenPig(PeiWei)
 
 #### Embedded BSP🐖| Robotic🎮 | PLC🛠
 #### 嵌入式开发 🦾| 机器人🌃 | 工业控制👾
@@ -10,8 +10,6 @@
 # Project 项目【进行】
 
 Research Experience / Lab Experience / Graduate Fieldwork
-
-研究经历 / 实验室经历 / 研究生实地工作
 
 【清华大学智能产业研究院 (AIR) 】机器人 RA 短期研究基于触觉反馈的端到端灵巧手控制器嵌入式 32  小组成员 负责嵌入式EDA、32
 
