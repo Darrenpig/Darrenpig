@@ -44,16 +44,16 @@ Research Experience / Lab Experience / Graduate Fieldwork
 
 - 全省50人，跨高校、专业竞争合作，评分 A+
 
-•Non-Academic Activities (brief)
+# Non-Academic Activities (brief)
 
 - 非学术活动（简介）参与开源项目与技术组织MeetUp、Summit，20+
 - openEuler Summit；鲲鹏昇腾开发者大会；Rt-thread开发者大会。
 
-•Languages and Skills
+# Languages and Skills
 
 - 语言和技能 英语雅思6.0，中文普通话二乙，街头速写、博客Blogger
 
-•Memberships
+# Memberships
 
 - 会员资格 IEEE member，openEuler 社区 南京用户组 ambassador
 - new energy coder club 仓库 maintainer
