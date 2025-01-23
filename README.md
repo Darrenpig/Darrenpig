@@ -7,7 +7,7 @@
 
 微信号：Pei-pei-Zhu-Pig
 
-# Project 项目【进行中ing~】
+# Project 项目【进行】
 
 Research Experience / Lab Experience / Graduate Fieldwork
 
