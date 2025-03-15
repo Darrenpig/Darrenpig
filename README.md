@@ -50,6 +50,17 @@ Research Experience / Lab Experience / Graduate Fieldwork
 
 - 语言和技能 英语雅思6.0，中文普通话二乙，街头速写、博客Blogger
 
+![C](https://img.shields.io/badge/-00599C?&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-8fcfd1?&logo=Python)
+![Shell](https://img.shields.io/badge/-Shell-blasck?&logo=Shell)
+![Git](https://img.shields.io/badge/-Git-black?&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
+![VIM](https://img.shields.io/badge/-vim-blasck?&logo=vim)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitlab)
+![](https://img.shields.io/badge/macOS-Monterey-blue)
+
 # Memberships
 
 - 会员资格 IEEE member，openEuler 社区 南京用户组 ambassador
