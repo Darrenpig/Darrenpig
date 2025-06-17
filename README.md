@@ -3,19 +3,6 @@
 #### Embedded BSP🐖| Robotic🎮 | PLC🛠
 #### 嵌入式开发 🦾| 机器人🌃 | 工业控制👾
 
-
-<p align="center">
-  <a href="https://darrenpig.github.io/" target="_blank">
-    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/CIT_Logo.png" height="70px" style="margin-bottom:-1px">
-  </a>
-  <a href="https://darrenpig.github.io/" target="_blank">
-    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/CIT_PV_Logo.png" height="70px" style="margin-bottom:-1px">
-  </a>
-  <a href="https://darrenpig.github.io/" target="_blank">
-    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/NEC_Logo.png" height="70px" style="margin-bottom:-1px">
-  </a>
-</p>
-
 # Contact Information
 
 微信号：Pei-pei-Zhu-Pig
@@ -48,6 +35,18 @@ Research Experience / Lab Experience / Graduate Fieldwork
 - 💬 2022 MIT blended learning SPOC【机器学习】最高奖学金
 - 💬 Ask me about嵌入式/新能源（Embedded/New Energy）
 - 📫 How to reach me: 22230635@czu.cn
+
+<p align="center">
+  <a href="https://darrenpig.github.io/" target="_blank">
+    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/CIT_Logo.png" height="70px" style="margin-bottom:-1px">
+  </a>
+  <a href="https://darrenpig.github.io/" target="_blank">
+    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/CIT_PV_Logo.png" height="70px" style="margin-bottom:-1px">
+  </a>
+  <a href="https://darrenpig.github.io/" target="_blank">
+    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/NEC_Logo.png" height="70px" style="margin-bottom:-1px">
+  </a>
+</p>
 
 # Awards and Honors
 
