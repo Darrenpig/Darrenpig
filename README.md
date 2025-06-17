@@ -3,9 +3,31 @@
 #### Embedded BSP🐖| Robotic🎮 | PLC🛠
 #### 嵌入式开发 🦾| 机器人🌃 | 工业控制👾
 
+
+<p align="center">
+  <a href="https://darrenpig.github.io/" target="_blank">
+    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/CIT_Logo.png" height="70px" style="margin-bottom:-1px">
+  </a>
+  <a href="https://darrenpig.github.io/" target="_blank">
+    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/CIT_PV_Logo.png" height="70px" style="margin-bottom:-1px">
+  </a>
+  <a href="https://darrenpig.github.io/" target="_blank">
+    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/NEC_Logo.png" height="70px" style="margin-bottom:-1px">
+  </a>
+</p>
+
 # Contact Information
 
 微信号：Pei-pei-Zhu-Pig
+
+<h3>🏠 <b>Homepage</b>: <a href="https://darrenpig.github.io" target="_blank">darrenpig.github.io</a></h3>
+<p>Hi! I am <strong>Darren Pig (朱佩韦)</strong>, currently a <u>sophomore undergraduate student</u> majoring in  New Energy Science and Engineering at Changzhou Institute of Technology and leading research at <a href="https://gitee.com/darrenpig/new_energy_coder_club" target="_blank">NECLab@CIT</a>, supervised by <a href="https://gdxy.czu.cn/2025/0317/c9891a156178/page.htm">Prof. Siwen Gu</a>. I once working with <a href="https://gitee.com/pai_666">Puai</a>.</p>
+<div style="magin-top: -10px"></div><p>I have won a silver medal in the <strong>National College Students' Career Planning Competition</strong> Jiangsu Regional Finals and a national Third Prize in the National College Students' Robot Competition ROBOCON robotics competition. I also being the youngest to hold the position <strong>(The domestic market share of server operating systems exceeds over 50% in China)<a href="https://www.openeuler.org/zh/community/user-group/detail/?name=%E5%8D%97%E4%BA%AC">openEuler Nanjing ambassador</a></strong> and <strong>"Excellent Reading Star of CIT(读者之星)"</strong> which was the recipient of the highest honor in reading for undergraduate students at CIT (rk 1/900).</p>
+<div style="magin-top: -10px"></div><p>My research interests mainly focus on <b>Embedded BSP🐖（嵌入式板载操作系统）| Robotic（机器人学）🎮｜Embodied AI (具身智能)</b>, especially on Robotic RTOS control（机器人运行时控制）, Yocto customized operating system（操作系统移植） and Humanoid Robot Embedded Develop（人形机器人嵌入式开发）.</p>
+<div style="magin-top: -10px"></div><p>I am also a Blogger with over 5k followers at [CSDN](https://darrenpig.blog.csdn.net/).</p>
+<p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
+</p>
+
 
 # Project 项目【进行】
 
