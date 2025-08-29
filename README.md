@@ -147,6 +147,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 Total Visitors:
-
-![Visitor Count](https://profile-counter.glitch.me/darrenpig/count.svg)
