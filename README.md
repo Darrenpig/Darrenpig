@@ -5,7 +5,7 @@
 
 # Contact Information
 
-微信号：Pei-pei-Zhu-Pig
+Wechat ID 微信号：Pei-pei-Zhu-Pig
 
 <h3>🏠 <b>Homepage</b>: <a href="https://darrenpig.github.io" target="_blank">darrenpig.github.io</a></h3>
 <p>Hi! I am <strong>Darren Pig (朱佩韦)</strong>, currently a <u>sophomore undergraduate student</u> majoring in  New Energy Science and Engineering at Changzhou Institute of Technology and leading research at <a href="https://gitee.com/darrenpig/new_energy_coder_club" target="_blank">NECLab@CIT</a>, supervised by <a href="https://gdxy.czu.cn/2025/0317/c9891a156178/page.htm">Prof. Siwen Gu</a>. I once working with <a href="https://gitee.com/pai_666">Puai</a>.</p>
@@ -44,7 +44,7 @@ Research Experience / Lab Experience / Graduate Fieldwork
     <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/CIT_PV_Logo.png" height="70px" style="margin-bottom:-1px">
   </a>
   <a href="https://darrenpig.github.io/" target="_blank">
-    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/NEC_Logo.png" height="70px" style="margin-bottom:-1px">
+    <img src="https://github.com/Darrenpig/darrenpig.github.io/blob/main/files/NEC_Logo-white.png" height="70px" style="margin-bottom:-1px">
   </a>
 </p>
 
