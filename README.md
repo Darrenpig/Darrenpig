@@ -65,7 +65,7 @@ Research Experience / Lab Experience / Graduate Fieldwork
 # Non-Academic Activities (brief)
 
 - 非学术活动（简介）参与开源项目与技术组织MeetUp、Summit，20+
-- openEuler Summit；鲲鹏昇腾开发者大会；Rt-thread开发者大会。
+- openEuler Summit；鲲鹏昇腾开发者大会；RT-Thread开发者大会。
 
 # Languages and Skills
 
