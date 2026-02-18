@@ -20,18 +20,13 @@ Wechat ID 微信号：Pei-pei-Zhu-Pig
 
 Research Experience / Lab Experience / Graduate Fieldwork
 
-【BB8 球形机器人项目-星火计划】等比例BB8 球型具身机器人，想再做一个更好的交互~
-
 【Trinasolar Residential - Nigeria】Nigeria Vehicle-Home Mutual Energy Project
 Responsible for small system integration and control - technical support, electric vehicle battery swapping station construction and APP development solution planning.
 Tech Stack: LFP (Lithium Iron Phosphate) batteries, integrated energy expansion dock for battery swapping, cell-level zero-trust security hardening
 
-【上汽大通房车光储项目】
-协调供应商提供详细技术方案，包括设备尺寸、MPPT升级能力、拓扑逻辑图定制
-进行技术方案对比，重点关注能源中心（CCI）的尺寸兼容性与功能实现
-
-上汽大通房车光储、电动船舶
-
+【SAIC Maxus — 48V Power System Project】  *Technical Lead & Systems Integration*
+Spearheaded end-to-end technical development and stakeholder coordination for 48V powertrain electrification initiative, spanning solution architecture, supplier ecosystem management, and client requirement alignment.
+Tech Stack: 48V Mild Hybrid System Architecture | CCI 能源中心| MPPT (Maximum Power Point Tracking / 最大功率点追踪) | Supplier SOR Compliance Management | AI-Assisted Engineering Documentation Automation
 <!--
 【清华大学智能产业研究院 (AIR) 】机器人 RA 短期研究基于触觉反馈的端到端灵巧手控制器嵌入式 32  小组成员 负责嵌入式EDA、32
 
@@ -84,13 +79,22 @@ Tech Stack: LFP (Lithium Iron Phosphate) batteries, integrated energy expansion 
   - Driving team digitalization initiatives.
   - Delivered: Code of Conduct / CURC 2026 Season Planning / NEC Project Proposal / 35K Limit BOM List.
   - Open-sourced related progress and documentation.
-【教育部、江苏省教育厅】2024全国大学生职业规划大赛 省级 一等奖
+**【Ministry of Education, P.R. China & Jiangsu Provincial Department of Education】**
 
-- I级A类，高等教育学会认定，校内700进6，省决赛6进1。结构化表达、PPT发布会级项目路演、可视化复盘
+**2024 National College Student Career Planning Competition** — **Provincial First Prize** (Rank: Gold)
 
-【江苏省教育厅】2024年江苏省政府奖学金、2024境外交流奖学金
+- **Category:** Class I, Type A (Highest tier, certified by China Association of Higher Education)
+- **Selection Process:** 700 candidates → 6 finalists (university level); 6 finalists → 1 winner (provincial final)
+- **Core Competencies Demonstrated:** Structured communication, executive-level project roadshow via publication-standard PPT, visualized debriefing methodologies
 
-- 全省50人，跨高校、专业竞争合作，评分 A+
+**【Jiangsu Provincial Department of Education】**
+
+**2024 Jiangsu Provincial Government Scholarship**
+**2024 International Exchange Scholarship**
+
+- **Distinction:** 1 of 50 recipients province-wide
+- **Context:** Cross-institutional, interdisciplinary competitive selection
+- **Performance Rating:** A+
 
 # Non-Academic Activities (brief)
 
