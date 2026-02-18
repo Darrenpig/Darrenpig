@@ -8,7 +8,7 @@
 Wechat ID 微信号：Pei-pei-Zhu-Pig
 
 <h3>🏠 <b>Homepage</b>: <a href="https://darrenpig.github.io" target="_blank">darrenpig.github.io</a></h3>
-<p>Hi! I am <strong>Darren Pig (朱佩韦)</strong>, currently a <u>sophomore undergraduate student</u> majoring in  New Energy Science and Engineering at Changzhou Institute of Technology and leading research at <a href="https://gitee.com/darrenpig/new_energy_coder_club" target="_blank">NECLab@CIT</a>, supervised by <a href="https://gdxy.czu.cn/2025/0317/c9891a156178/page.htm">Prof. Siwen Gu</a>. I once working with <a href="https://gitee.com/pai_666">Puai</a>.</p>
+<p>Hi! I am <strong>Darren Pig (朱佩韦)</strong>, currently a <u>senior undergraduate student（大四本科生）</u> majoring in  New Energy Science and Engineering at Changzhou Institute of Technology and leading research at <a href="https://gitee.com/darrenpig/new_energy_coder_club" target="_blank">NECLab@CIT</a>, supervised by <a href="https://gdxy.czu.cn/2025/0317/c9891a156178/page.htm">Prof. Siwen Gu</a>. I once working with <a href="https://gitee.com/pai_666">Puai</a>.</p>
 <div style="magin-top: -10px"></div><p>I have won a silver medal in the <strong>National College Students' Career Planning Competition</strong> Jiangsu Regional Finals and a national Third Prize in the National College Students' Robot Competition ROBOCON robotics competition. I also being the youngest to hold the position <strong>(The domestic market share of server operating systems exceeds over 50% in China)<a href="https://www.openeuler.org/zh/community/user-group/detail/?name=%E5%8D%97%E4%BA%AC">openEuler Nanjing ambassador</a></strong> and <strong>"Excellent Reading Star of CIT(读者之星)"</strong> which was the recipient of the highest honor in reading for undergraduate students at CIT (rk 1/900).</p>
 <div style="magin-top: -10px"></div><p>My research interests mainly focus on <b>Embedded BSP🐖（嵌入式板载操作系统）| Robotic（机器人学）🎮｜Embodied AI (具身智能)</b>, especially on Robotic RTOS control（机器人运行时控制）, Yocto customized operating system（操作系统移植） and Humanoid Robot Embedded Develop（人形机器人嵌入式开发）.</p>
 <div style="magin-top: -10px"></div><p>I am also a Blogger with over 5k followers at [CSDN](https://darrenpig.blog.csdn.net/).</p>
@@ -20,18 +20,32 @@ Wechat ID 微信号：Pei-pei-Zhu-Pig
 
 Research Experience / Lab Experience / Graduate Fieldwork
 
+【BB8 球形机器人项目-星火计划】等比例BB8 球型具身机器人，想再做一个更好的交互~
+
+【Trinasolar Residential - Nigeria】Nigeria Vehicle-Home Mutual Energy Project
+Responsible for small system integration and control - technical support, electric vehicle battery swapping station construction and APP development solution planning.
+Tech Stack: LFP (Lithium Iron Phosphate) batteries, integrated energy expansion dock for battery swapping, cell-level zero-trust security hardening
+
+【上汽大通房车光储项目】
+协调供应商提供详细技术方案，包括设备尺寸、MPPT升级能力、拓扑逻辑图定制
+进行技术方案对比，重点关注能源中心（CCI）的尺寸兼容性与功能实现
+
+上汽大通房车光储、电动船舶
+
+<!--
 【清华大学智能产业研究院 (AIR) 】机器人 RA 短期研究基于触觉反馈的端到端灵巧手控制器嵌入式 32  小组成员 负责嵌入式EDA、32
 
 【清华大学苏州汽车研究院】飞行汽车研发-PX4和轮趣科技
 
 【易百纳 EB25 星闪 BLE 透传】开源手柄，设计 (Fusion360 三维设计〕通信协议底软 海鸥派，Bitbake、Yocto语言，社区邀请合作
+-->
 
 # Education 教育背景
 
 - 🔭 常州工学院-双非二本-2022-至今
 - 🔭 我目前在攻读新能源科学与工程专业，并且从事相关基础软件的应用工作。 I’m currently working on New Energy Science and Engineering.
 - 🌱 悉尼大学现代工业设计【化工设计】A+ 2024 江苏省政府奖学金
-- 🌱 我目前正在学习 yocto-meta-openeuler 和 Rt-Thread（两款国内的操作系统社区）learning yocto-meta-openeuler and Rt-Thread 
+- 🌱 我目前正在学习 yocto-meta-openeuler 和 RT-Thread（两款国内的操作系统社区）learning yocto-meta-openeuler and RT-Thread 
 - 💬 2022 MIT blended learning SPOC【机器学习】最高奖学金
 - 💬 Ask me about嵌入式/新能源（Embedded/New Energy）
 - 📫 How to reach me: 22230635@czu.cn
@@ -50,10 +64,26 @@ Research Experience / Lab Experience / Graduate Fieldwork
 
 # Awards and Honors
 
-【教育部】2024 全国大学生机器人大赛ROBOCON赛项 国家级 三等奖 
+**【Ministry of Education】**
 
-- 担任领队、队内最高等级项管，负责机器人上位机、下位机、算法、气动结构工业控制等，带队7天7夜，90+高校中预算最低的条件下，成功完赛
+- **2024** National University Robot Competition (ROBOCON) – **National Third Prize**
+- **2025** National Third Prize – **3 Awards**
 
+**Leadership & Technical Contributions:**
+
+- **May 2024 – July 2024 | Team Leader & Senior Project Manager**
+  - Led the team as Captain and highest-level Project Manager, overseeing robot upper computer, lower computer, algorithms, and pneumatic structure industrial control systems.
+  - Led the team through 7 days and 7 nights of intensive competition.
+  - Successfully completed the competition among 90+ universities under the lowest budget conditions.
+
+- **December 2024 – July 2025 | Team Leader**
+  - Built the NEC online open-source collaboration platform from scratch.
+  - Conducted technical evangelism and established the team from 0 to 1, forming a stable and efficient 30-member team.
+
+- **August 2025 – Present | Team Leader**
+  - Driving team digitalization initiatives.
+  - Delivered: Code of Conduct / CURC 2026 Season Planning / NEC Project Proposal / 35K Limit BOM List.
+  - Open-sourced related progress and documentation.
 【教育部、江苏省教育厅】2024全国大学生职业规划大赛 省级 一等奖
 
 - I级A类，高等教育学会认定，校内700进6，省决赛6进1。结构化表达、PPT发布会级项目路演、可视化复盘
@@ -64,24 +94,26 @@ Research Experience / Lab Experience / Graduate Fieldwork
 
 # Non-Academic Activities (brief)
 
-- 非学术活动（简介）参与开源项目与技术组织MeetUp、Summit，20+
-- openEuler Summit；鲲鹏昇腾开发者大会；RT-Thread开发者大会。
-
+- 非学术活动（简介）参与开源项目与技术组织MeetUp、Summit，50+
+- openEuler Summit；鲲鹏昇腾开发者大会；RT-Thread开发者大会 X 3。
+- 演讲：RT-Thread开发者2025全球峰会，ROBOCON2026年会-开放麦
+  
 # Languages and Skills
 
-- 语言和技能 英语雅思6.0，中文普通话二乙，街头速写、博客Blogger
+- 语言和技能 英语雅思5.5，中文普通话二乙，街头速写、博客Blogger
 
-![C](https://img.shields.io/badge/-00599C?&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?&logo=Python)
-![Shell](https://img.shields.io/badge/-Shell-blasck?&logo=Shell)
-![Git](https://img.shields.io/badge/-Git-black?&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
-![VIM](https://img.shields.io/badge/-vim-blasck?&logo=vim)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitlab)
-![](https://img.shields.io/badge/macOS-Monterey-blue)
-
+  ![C](https://img.shields.io/badge/-00599C?&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?&logo=Python)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?&logo=Shell)
+  ![Git](https://img.shields.io/badge/-Git-black?&logo=git)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
+  ![VIM](https://img.shields.io/badge/-vim-blasck?&logo=vim)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitlab)
+  ![Gitee](https://img.shields.io/badge/-Gitee-C71D23?&logo=gitee&logoColor=white)
+  ![](https://img.shields.io/badge/macOS-Monterey-blue)
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -90,27 +122,42 @@ Research Experience / Lab Experience / Graduate Fieldwork
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
   ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
   ![ROS2](https://img.shields.io/badge/-ROS2-333333?style=flat&logo=ros2)
+  ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  ![BitBake](https://img.shields.io/badge/-BitBake-512DA8?style=flat&logo=openembedded&logoColor=white)
+  ![Yocto](https://img.shields.io/badge/-Yocto-512DA8?style=flat&logo=linux&logoColor=white)
 - 🌐 &nbsp;
   ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics)
   ![C51](https://img.shields.io/badge/-C51-333333?style=flat)
-  ![esp8266](https://img.shields.io/badge/-esp8266-333333?style=flat&logo=esphome)
-  ![esp32](https://img.shields.io/badge/-esp32-333333?style=flat&logo=esphome)
-  ![arduino](https://img.shields.io/badge/-arduino-333333?style=flat&logo=arduino)
+  ![ESP8266](https://img.shields.io/badge/-ESP8266-333333?style=flat&logo=esphome)
+  ![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=esphome)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+  ![NXP i.MX8](https://img.shields.io/badge/-NXP%20i.MX8-333333?style=flat&logo=nxp)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Feishu](https://img.shields.io/badge/-Feishu-3370FF?style=flat&logo=bytedance&logoColor=white)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublimetext)
-  ![Keil](https://img.shields.io/badge/-Keil-333333?style=flat&logo=arm)
-  ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublimetext)
+![Keil](https://img.shields.io/badge/-Keil-333333?style=flat&logo=arm)
+![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion)
+![Trae Solo](https://img.shields.io/badge/-Trae%20Solo-1A1A1A?style=flat&logo=trae&logoColor=00D9A5)
+![Kimi Code](https://img.shields.io/badge/-Kimi%20Code-8B5CF6?style=flat&logo=moonshot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-CC785C?style=flat&logo=anthropic&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-2C2C2C?style=flat&logo=github&logoColor=white)
 - 🖥 &nbsp;
   ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat&logo=altiumdesigner)
   ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidworks)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
   ![Fusion360](https://img.shields.io/badge/-Fusion360-333333?style=flat&logo=autodesk)
-
+  ![Rhino 8](https://img.shields.io/badge/-Rhino_8-FFFFFF?style=flat&logo=rhinoceros&logoColor=000000)
+  ![Bambu Studio](https://img.shields.io/badge/-Bambu%20Studio-00AEEF?style=flat&logo=bambulab&logoColor=white)
+  ![MayCAD](https://img.shields.io/badge/-MayCAD-FF6B00?style=flat&logo=autodesk&logoColor=white)
+  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 # Memberships
