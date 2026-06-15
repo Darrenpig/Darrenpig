@@ -98,13 +98,13 @@ Tech Stack: 48V Mild Hybrid System Architecture | CCI 能源中心| MPPT (Maximu
 
 # Non-Academic Activities (brief)
 
-- 非学术活动（简介）参与开源项目与技术组织MeetUp、Summit，50+
+- 非学术活动（简介）参与开源项目与技术组织MeetUp、Summit，70+
 - openEuler Summit；鲲鹏昇腾开发者大会；RT-Thread开发者大会 X 3。
 - 演讲：RT-Thread开发者2025全球峰会，ROBOCON2026年会-开放麦
   
 # Languages and Skills
 
-- 语言和技能 英语雅思5.5，中文普通话二乙，街头速写、博客Blogger
+- 语言和技能 英语雅思6.5，中文普通话二乙，街头速写、博客Blogger
 
   ![C](https://img.shields.io/badge/-00599C?&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
